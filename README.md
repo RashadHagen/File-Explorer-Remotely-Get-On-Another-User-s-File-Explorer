@@ -59,7 +59,6 @@ This project goes over how an Administrator can remotely get on another user’s
 <table>
   <tr>
     <td><img src="https://imgur.com/jFIHDsz.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/1uK8rNt.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
@@ -72,6 +71,7 @@ This project goes over how an Administrator can remotely get on another user’s
 
 <table>
   <tr>
+    <td><img src="https://imgur.com/1uK8rNt.png" height="100%" width="100%" /></td>
     <td><img src="https://imgur.com/rYKO8gH.png" height="100%" width="100%" /></td>
   </tr>
 </table>
